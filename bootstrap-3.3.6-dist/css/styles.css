@@ -1,0 +1,22 @@
+img,
+video,
+audio,
+iframe,
+table,
+form {
+    width: 100%;
+    /* IE */
+    max-width: 100%;
+    /* FF, Safari, Chrome */
+}
+
+
+/******layout styler*****/
+
+.row {
+    margin-bottom: 12px;
+}
+
+.container {
+  max-width: 80%;
+}
